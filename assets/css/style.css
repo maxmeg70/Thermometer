@@ -1,0 +1,6 @@
+.termometro{background: url('../img/termometro-base.png');background-position: center center;
+        background-size: 100%;background-repeat:no-repeat;height:300px; max-width:615px;} 
+.barra{width: 67%;height:8px;top: 146px;left:160px;right:0;}
+.redBar{accent-color:red;}
+.blueBar{accent-color:blue;}
+@media screen and (max-width:577px){.barra{left:134px;}}
